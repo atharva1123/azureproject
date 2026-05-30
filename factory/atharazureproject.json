@@ -1,0 +1,15 @@
+{
+	"name": "atharazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00f5508a-3b40-4291-a2cd-1aa9a9311755",
+		"tenantId": "d922c152-c26b-4cdb-93bd-26317afeeb63"
+	}
+}
